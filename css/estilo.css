@@ -1,0 +1,228 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(174, 14, 14);
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    
+}
+
+.navv {
+    transition: 0.5s;
+}
+
+.navv:hover {
+    background-color: rgb(174, 14, 14);
+    padding: 41px;
+}
+
+section {
+    padding: 20px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.vestibular {
+    padding: 120px;
+}
+
+.vesttext {
+    padding-left: 150px;
+}
+
+
+.nav.menu.mod-list {
+    color: black;
+    list-style-type: disc;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+
+.info {
+    float: right;
+    width: 35%;
+    padding: 0px;
+    margin-top: -850px;
+}
+
+.infos {
+    color: rgb(174, 14, 14);
+    text-decoration: none;
+}
+
+.infos:hover {
+    color: black;
+    transition: 0.5s;
+}
+
+.secretaria {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(51, 51, 51);
+    
+}
+
+.info2 {
+    float: right;
+    width: 35%;
+    padding: 0px;
+    margin-top: -450px;
+}
+
+.carousel.slide {
+    width: 70%;
+    margin: auto;
+    
+}
+
+.listas {
+    text-align: left;
+}
+
+.rei-jaime {
+    margin-top: -50px;
+    padding-left: 120px;
+}
+
+.vagas-remanescentes {
+    margin-top: -650px;
+    padding-left: 650px;
+}
+
+.subtitle1 {
+    padding-left: 30px;
+}
+
+.subtitle2 {
+    margin-top: -825px;
+}
+
+.MEC {
+    float: right;
+    width: 35%;
+    padding: 0px;
+    margin-top: -390px;
+}
+
+.rodape {
+    margin-top: 550px;
+    background-color: rgb(138, 138, 138);
+    background-position: 90%; /* Pode ser left, right, top, bottom ou valores em porcentagem ou pixels */
+    background-size: 100%;
+    
+    
+}
+
+footer {
+    
+    background-color: rgb(174, 14, 14);
+    bottom: 0; 
+    width: 100%;
+    position: static;
+}
+
+.botoes-rodape li {
+    margin: 15px;
+}
+
+.botoes-rodape a {
+    display: inline-block;
+    padding: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: white; 
+    color: rgb(174, 14, 14); 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer;
+}
+
+.botoes-rodape a:hover {
+    background-color: rgb(94, 7, 7);
+    transition: 0.7s;
+}
+
+.finalPage {
+    margin-top: 550px;
+    background-color: rgb(241, 241, 241);
+    text-align: center;
+    padding: 80px;
+}
+
+.listFinalPage {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 5%;
+}
+
+.listFinalPage li {
+    display: inline-block;
+    margin-right: 80px;
+}
+
+.imgFooter {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 10%;
+    background: transparent;
+    display: inline-block;
+    margin-right: 60px;
+    mix-blend-mode: multiply;
+    margin-top: 20px;
+}
+
+.descImg {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.descImg li {
+    margin-right: 120px;
+    display: inline-block;
+}
+
+.descImg a {
+    color: rgb(174, 14, 14);
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.descImg a:hover {
+    color: #fff;
+    border-radius: 15%;
+    background-color: black;
+    padding: 20px;
+}
